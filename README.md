@@ -18,11 +18,29 @@ Hoisting là gì, các câu lệnh khai báo, (declare) cái biến đó sẽ đ
  Ví dụ: mouse.sayHi.bind(mouse); bind trong này là mình gán lại this này trở lại cái Obj đúng của nó :D 
  Hiểu như vậy chấc là cũng ok lắm rồi nhỉ :D 
 
- # B4 
+ # B4 + B5 
  Mình vừa học cái Arr function . mà công nhận có nhiều cái về Arr function mà mình không rõ mặc dù mình dùng nó khác là nhiều lần rồi : 
  - Nó không có context, nghĩa là nếu gọi this một cái đối tượng nào  trong cái arrfunction đó thì sẽ là cái this của thằng gần (thằng cha gần nhất của thằng function đó)
  - và mình cũng biết thêm cái let that = this, rồi bind(that) hoặc bind this cũng đươnc. 
  công nhận CodersX giảng dễ hiểu thật  sự :D 
+
+# B6 Template String
+clone mẹ, hóa ra nó là ${}, mình dùng nó bao lâu rồi cơ mà mình không biết, :v 
+
+# B7 Argument 
+Bài này cho mình một cái bât ngờ khá là lớn, 
+Vì khi mình khởi tạo một cái hàm bất kì nào đo,s thì trong hàm đó luôn tồn tại một cái obj là argument, và cái thằng này nó chứa toàn bộ những cái tham số đầuv ào, vì vậy đối với một cái bài bình tường là tính tổng tất cả tham số đầu vào thì mình có thể dùng cách đơn giản là lợi dụng cái thằng Argument đó ;D 
+-> thật bât ngờ :D  
+Và có một cái bất ngờ nữa là mình có thẻ tạo một cái Arr từ một cái Obj này :D , bằng cách dùng Array.from(obj)
+
+# B8  Default param, 
+cái này thì mình xem lướt thôi vì mình cũng hiểu rồi, cái này trong c++ thì mình cũng đã học nó khá nhiều :D 
+Đơn giản chỉ là mình truyền cho nó cái giá trị của tham số đầu vào thôi mà không canaf phải truyền nó vào khi gọi hàm là được :D 
+:D 
+
+# B9 
+
+
 
  
  
