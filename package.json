@@ -1,0 +1,11 @@
+{
+  "name": "15_01_20_javascriptadvanced",
+  "version": "1.0.0",
+  "description": "Cũng không có gì căng lắm, chỉ là tôi học một tí cái JS nâng cao thôi, thôi chưa hoàn thành khóa Expess, MasterCSS, nhưng mà cảm thấy mình có thể học đồng thời được thì cứ học thôi, bỏ phí thời gian làm gì nhỉ lD \r Lest GOO",
+  "main": "B2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
